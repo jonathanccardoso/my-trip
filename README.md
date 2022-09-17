@@ -19,3 +19,12 @@ Projeto criado a partir de um template:
 - [Next SEO](https://www.npmjs.com/package/next-seo)
 - [GraphCMS](https://app.graphcms.com)
 - [Vercel](https://vercel.com/)
+
+## Requisitos
+-
+- Versão Node: >= v14.19.1
+- Scripts principais
+  - yarn dev
+  - yarn build
+  - yarn start
+  - yarn test
